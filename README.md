@@ -3,19 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasan33&label=Profile%20views&color=0e75b6&style=flat" alt="jasan33" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasan33" alt="jasan33" /></a> </p>
+- 🔭 I’m currently working with my **portfolio**
 
-- 🔭 I’m currently working with **Portfolio**
+- 🌱 I’m currently learning **Python and json**
 
-- 🌱 I’m currently learning **Python**
+- 🤝 I’m looking for helping with **IT related things**
 
-- 🤝 I’m looking for help with **IT related things**
-
-- 💬 Ask me about **anything you want related**
+- 💬 Ask me about **anything you want**
 
 - 📫 You can reach me at **jasandeeep3@gmail.com**
 
-- ⚡ Fun fact **I have good humor**
+- ⚡ Fun fact **I enjoy working with co-op projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
