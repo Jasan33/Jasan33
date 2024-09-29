@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for helping with **IT related things**
 
-- 💬 Ask me about **anything you want**
+- 💬 Ask me about **anything you want!**
 
 - 📫 You can reach me at **jasandeeep3@gmail.com**
 
