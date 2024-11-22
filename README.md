@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasan33&" alt="jasan33" /></p>
 
-![snake gif](https://github.com/Jasan33/aemrcd/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Jasan33/Jasan33/blob/output/github-snake-dark.svg)
