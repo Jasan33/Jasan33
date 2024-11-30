@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jasan</h1>
+<h1 align="center">Hi my name is Jasan, 👋</h1>
 <h3 align="center">I am a pro Indian developer who works with backend/frontend IT & Media</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasan33&label=Profile%20views&color=0e75b6&style=flat" alt="jasan33" /> </p>
