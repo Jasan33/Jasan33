@@ -26,5 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasan33&show_icons=true&locale=en" alt="jasan33" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasan33&" alt="jasan33" /></p>
-
-![snake gif](https://github.com/Jasan33/Jasan33/blob/output/github-snake-dark.svg)
