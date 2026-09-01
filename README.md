@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working with my **portfolio**
 
-- 🌱 I’m currently learning **Python and json**
-
-- 🤝 I’m looking for helping with **IT related things**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **anything you want!**
 
